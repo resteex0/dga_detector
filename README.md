@@ -3,6 +3,7 @@ DGA Domains detection
 
 DGA domain detection is based on ngram analysis with trained markov chain model.
 It is incorporate code by https://github.com/rrenaud/Gibberish-Detector
+#https://underdefense.com/guides/detecting-dga-domains-machine-learning-approach/
 
 The decision is based solely on results by this check.
 
